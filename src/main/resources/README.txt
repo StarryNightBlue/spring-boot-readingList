@@ -1,0 +1,2 @@
+同一优先级位置同时有application.properties 和application.yml 
+那么application.yml 里的属性会覆盖application.properties 里的属性
